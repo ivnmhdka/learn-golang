@@ -8,7 +8,7 @@ func main() {
 	var x int
 	var d1, d2, d3 int
 
-	fmt.Print("Masukkan bilangan bulat positif (kurang dari atau sama dengan 900) : ")
+	fmt.Print("Masukkan bilangan bulat positif (kurang dari atau sama dengan 999) : ")
 	fmt.Scan(&x)
 
 	d1 = (x / 100)
