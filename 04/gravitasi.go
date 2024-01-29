@@ -21,12 +21,12 @@ func main() {
 	neptunus = rumus * 1.13
 
 	fmt.Println("Berat tubuh manusia di berbagai planet:")
-	fmt.Printf("Merkurius: \n", merkurius)
-	fmt.Printf("Venus: \n", venus)
-	fmt.Printf("Bumi: \n", bumi)
-	fmt.Printf("Mars: \n", mars)
-	fmt.Printf("Yupiter: \n", yupiter)
-	fmt.Printf("Saturnus: \n", saturnus)
-	fmt.Printf("Uranus: \n", uranus)
-	fmt.Printf("Neptunus: \n", neptunus)
+	fmt.Printf("Merkurius: %f\n", merkurius)
+	fmt.Printf("Venus: %f\n", venus)
+	fmt.Printf("Bumi: %f\n", bumi)
+	fmt.Printf("Mars: %f\n", mars)
+	fmt.Printf("Yupiter: %f\n", yupiter)
+	fmt.Printf("Saturnus: %f\n", saturnus)
+	fmt.Printf("Uranus: %f\n", uranus)
+	fmt.Printf("Neptunus: %f\n", neptunus)
 }
